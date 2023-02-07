@@ -16,3 +16,8 @@ This project consists on recreating the NetCat in a Server-Client Architecture t
 11. All Clients must receive the messages sent by other Clients.
 12. If a Client leaves the chat, the rest of the Clients must not disconnect.
 13. If there is no port specified, then set as default the port 8989. Otherwise, program must respond with usage message: [USAGE]: ./TCPChat $port
+
+
+### How to go run:
+first you need enter /cmd/ dir
+`cd cmd`
