@@ -20,4 +20,10 @@ This project consists on recreating the NetCat in a Server-Client Architecture t
 
 ### How to go run:
 first you need enter /cmd/ dir
-`cd cmd`
+```
+cd cmd
+```
+secend you need go run
+```
+go run .
+```
