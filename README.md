@@ -27,3 +27,34 @@ secend you need go run
 ```
 go run .
 ```
+if you need another port than const_port, you need enter it
+```
+go run . "your_port it may be like 8787 or 1212"
+```
+third you need split terminal how do you want(max 10 terminal can enter in chat), and enter this command
+```
+nc localhost: "your_port or const_port"
+```
+```
+Welcome to TCP-Chat!
+         _nnnn_
+        dGGGGMMb
+       @p~qp~~qMb
+       M|@||@) M|
+       @,----.JM|
+      JS^\__/  qKL
+     dZP        qKRb
+    dZP          qKKb
+   fZP            SMMb
+   HZM            MMMM
+   FqM            MMMM
+ __| ".        |\dS"qML
+ |    `.       | `' \Zq
+_)      \.___.,|     .'
+\____   )MMMMMP|   .'
+     `-'       `--'
+[ENTER YOUR NAME]:
+```
+there you need enter your user name: with latin letters
+
+To exit chat you need push "ctrl+c"
